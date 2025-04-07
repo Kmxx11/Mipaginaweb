@@ -1,7 +1,3 @@
-# Volver a crear el archivo ZIP sin descargar imágenes externas
-import zipfile
-import os
-
 # Ruta base del proyecto
 base_path = "/mnt/data/sitio_profesional"
 os.makedirs(base_path, exist_ok=True)
